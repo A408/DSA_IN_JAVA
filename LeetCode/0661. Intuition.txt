@@ -1,0 +1,15 @@
+if((j + 1) < m && (i + 1) < n){
+sum = sum + img[i + 1][j + 1];
+count += 1;
+}
+sum = sum + img[i][j];
+count += 1;
+int avg = sum / count;
+arr[i][j] = avg;
+}
+}
+}
+if((i + 1) < n){
+sum = sum + img[i + 1][j];
+count += 1;
+}
