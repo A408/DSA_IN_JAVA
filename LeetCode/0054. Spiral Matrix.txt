@@ -1,0 +1,15 @@
+for(int i = sr;i<=er;i++) {
+sr++;
+}
+arr.add(matrix[sr][i]);
+for(int i = sc;i<=ec;i++) {
+while(sr <= er && sc <=ec) {
+ArrayList<Integer> arr = new ArrayList<Integer>();
+int er= m-1;
+int ec= n-1;
+int sc =0;
+int sr=0;
+int n = matrix[0].length;
+int m = matrix.length;
+public List<Integer> spiralOrder(int[][] matrix) {
+class Solution {
