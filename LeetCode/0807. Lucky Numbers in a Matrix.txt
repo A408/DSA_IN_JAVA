@@ -1,0 +1,16 @@
+}
+maxv=Math.max(maxv,matrix[j][i]);
+for(int j =0;j<m;j++) {
+int maxv=Integer.MIN_VALUE;
+for(int i = 0 ;i<n;i++) {
+}
+row.add(minv);
+minv=Math.min(minv,matrix[i][j]);
+}
+for(int j =0;j<n;j++) {
+int minv=Integer.MAX_VALUE;
+for(int i = 0 ;i<m;i++) {
+ArrayList<Integer>  col = new ArrayList<Integer>();
+ArrayList<Integer> row = new ArrayList<Integer>();
+int n = matrix[0].length;
+col.add(maxv);
