@@ -1,0 +1,10 @@
+// Count live neighbours
+for (int r = i - 1; r <= i +
+int live = 0;
+for (int i = 0; i < m; i++) {
+for (int j = 0; j < n; j++) {
+int[][] temp = new int[m][n];
+int n = board[0].length;
+int m = board.length;
+class Solution {
+public void gameOfLife(int[][] board) {
