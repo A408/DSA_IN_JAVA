@@ -1,3 +1,8 @@
+for(int i = ec ;i>=sc;i--){
+if(sr<= er) {
+ec--;
+}
+arr.add(matrix[i][ec]);
 for(int i = sr;i<=er;i++) {
 sr++;
 }
