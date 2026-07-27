@@ -1,9 +1,14 @@
+maxv=Math.max(maxv,matrix[j][i]);
+}
+col.add(maxv);
+}
+for(int j =0;j<m;j++) {
 int maxv=Integer.MIN_VALUE;
-for(int i = 0 ;i<m;i++) {
+for(int i = 0 ;i<n;i++) {
 }
-row.add(min);
+row.add(minv);
 }
-min=Math.min(minv,marix[i][j]);
+minv=Math.min(minv,matrix[i][j]);
 for(int j =0;j<n;j++) {
 int minv=Integer.MAX_VALUE;
 for(int i = 0 ;i<m;i++) {
