@@ -12,6 +12,6 @@ for (int i = 0; i < m; i++) {
 boolean[] col = new boolean[n];
 boolean[] row = new boolean[m];
 int n = matrix[0].length;
-int m = matrix.length;
 public void setZeroes(int[][] matrix) {
+int m = matrix.length;
 class Solution {
