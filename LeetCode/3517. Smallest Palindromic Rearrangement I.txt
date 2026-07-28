@@ -1,0 +1,12 @@
+for (int i = 0; i < 26; i++) {
+if (freq[i] % 2 == 1) {
+middle = String.valueOf((char) (i + 'a'));
+String middle = "";
+StringBuilder left = new StringBuilder();
+}
+freq[ch - 'a']++;
+for (char ch : s.toCharArray()) {
+int[] freq = new int[26];
+public String smallestPalindrome(String s) {
+class Solution {
+}
