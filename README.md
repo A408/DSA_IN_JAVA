@@ -15,3 +15,4 @@
 | 13 | [Half Diamond Star Pattern](./GeeksForGeeks/Basic/Half%20Diamond%20Star%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triangle-pattern-1661718013/1) | Basic | 30 Jul 2026 | 09:47 am |
 | 14 | [Find element at a given Index](./GeeksForGeeks/Basic/Find%20element%20at%20a%20given%20Index) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1) | Basic | 30 Jul 2026 | 09:47 am |
 | 15 | [Array Search](./GeeksForGeeks/Basic/Array%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | Basic | 30 Jul 2026 | 09:48 am |
+| 16 | [Count Odd and Even](./GeeksForGeeks/Basic/Count%20Odd%20and%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-odd-even/1) | Basic | 30 Jul 2026 | 09:58 am |
