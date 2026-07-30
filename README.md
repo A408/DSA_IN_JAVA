@@ -18,3 +18,4 @@
 | 16 | [Count Odd and Even](./GeeksForGeeks/Basic/Count%20Odd%20and%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-odd-even/1) | Basic | 30 Jul 2026 | 09:58 am |
 | 17 | [Largest in Array](./GeeksForGeeks/Basic/Largest%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | Basic | 30 Jul 2026 | 10:00 am |
 | 18 | [Second Largest](./GeeksForGeeks/Easy/Second%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | 30 Jul 2026 | 10:00 am |
+| 19 | [Sign of the Product of an Array](./LeetCode/Easy/Sign%20of%20the%20Product%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy | 30 Jul 2026 | 10:48 am |

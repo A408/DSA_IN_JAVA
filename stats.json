@@ -1,11 +1,11 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 18,
+  "todayCount": 19,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 2,
     "hard": 0,
     "basic": 7
@@ -28,10 +28,11 @@
     "GeeksForGeeks_Array_Search": true,
     "GeeksForGeeks_Count_Odd_and_Even": true,
     "GeeksForGeeks_Largest_in_Array": true,
-    "GeeksForGeeks_Second_Largest": true
+    "GeeksForGeeks_Second_Largest": true,
+    "LeetCode_Sign_of_the_Product_of_an_Array": true
   },
   "activityHistory": {
-    "2026-07-30": 18
+    "2026-07-30": 19
   },
   "todayProblems": [
     "Right Angle Triangle Pattern",
@@ -51,6 +52,7 @@
     "Array Search",
     "Count Odd and Even",
     "Largest in Array",
-    "Second Largest"
+    "Second Largest",
+    "Sign of the Product of an Array"
   ]
 }
