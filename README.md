@@ -20,3 +20,4 @@
 | 18 | [Second Largest](./GeeksForGeeks/Easy/Second%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | 30 Jul 2026 | 10:00 am |
 | 19 | [Sign of the Product of an Array](./LeetCode/Easy/Sign%20of%20the%20Product%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy | 30 Jul 2026 | 10:48 am |
 | 20 | [Print Hollow Rectangle](./GeeksForGeeks/Basic/Print%20Hollow%20Rectangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/hollow-rectangle-or-square/1) | Basic | 30 Jul 2026 | 08:32 pm |
+| 21 | [Butterfly Pattern](./GeeksForGeeks/Basic/Butterfly%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/butterfly-pattern/1) | Basic | 30 Jul 2026 | 08:49 pm |
