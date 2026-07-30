@@ -1,30 +1,32 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 3,
     "medium": 2,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
     "GeeksForGeeks_Make_Zeroes": true,
     "GeeksForGeeks_Boolean_Matrix": true,
     "GeeksForGeeks_Exit_Point_in_a_Matrix": true,
-    "GeeksForGeeks_Sum_of_upper_and_lower_triangles": true
+    "GeeksForGeeks_Sum_of_upper_and_lower_triangles": true,
+    "GeeksForGeeks_Pyramid_Pattern": true
   },
   "activityHistory": {
-    "2026-07-30": 5
+    "2026-07-30": 6
   },
   "todayProblems": [
     "Right Angle Triangle Pattern",
     "Make Zeroes",
     "Boolean Matrix",
     "Exit Point in a Matrix",
-    "Sum of upper and lower triangles"
+    "Sum of upper and lower triangles",
+    "Pyramid Pattern"
   ]
 }
