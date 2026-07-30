@@ -23,3 +23,4 @@
 | 21 | [Butterfly Pattern](./GeeksForGeeks/Basic/Butterfly%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/butterfly-pattern/1) | Basic | 30 Jul 2026 | 08:49 pm |
 | 22 | [Diamond Shape Pattern](./GeeksForGeeks/Basic/Diamond%20Shape%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pattern/1) | Basic | 30 Jul 2026 | 08:59 pm |
 | 23 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 30 Jul 2026 | 09:10 pm |
+| 24 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 30 Jul 2026 | 09:26 pm |
