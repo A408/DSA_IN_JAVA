@@ -4,3 +4,4 @@
 | 2 | [Make Zeroes](./GeeksForGeeks/Easy/Make%20Zeroes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/make-zeroes4042/1) | Easy | 30 Jul 2026 | 08:17 am |
 | 3 | [Boolean Matrix](./GeeksForGeeks/Medium/Boolean%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/1) | Medium | 30 Jul 2026 | 08:17 am |
 | 4 | [Exit Point in a Matrix](./GeeksForGeeks/Medium/Exit%20Point%20in%20a%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/exit-point-in-a-matrix0905/1) | Medium | 30 Jul 2026 | 08:17 am |
+| 5 | [Sum of upper and lower triangles](./GeeksForGeeks/Easy/Sum%20of%20upper%20and%20lower%20triangles) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1) | Easy | 30 Jul 2026 | 08:18 am |
