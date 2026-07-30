@@ -11,3 +11,4 @@
 | 9 | [Max Consecutive Bit](./GeeksForGeeks/Easy/Max%20Consecutive%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-consecutive-one/1) | Easy | 30 Jul 2026 | 09:37 am |
 | 10 | [Reading Books](./GeeksForGeeks/Easy/Reading%20Books) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reading-books3803/1) | Easy | 30 Jul 2026 | 09:37 am |
 | 11 | [Move All Zeroes to End](./GeeksForGeeks/Easy/Move%20All%20Zeroes%20to%20End) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | Easy | 30 Jul 2026 | 09:38 am |
+| 12 | [Segregate 0s and 1s](./GeeksForGeeks/Easy/Segregate%200s%20and%201s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Easy | 30 Jul 2026 | 09:38 am |
