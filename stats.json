@@ -1,14 +1,14 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 19,
+  "todayCount": 20,
   "difficultyCounts": {
     "easy": 10,
     "medium": 2,
     "hard": 0,
-    "basic": 7
+    "basic": 8
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -29,10 +29,11 @@
     "GeeksForGeeks_Count_Odd_and_Even": true,
     "GeeksForGeeks_Largest_in_Array": true,
     "GeeksForGeeks_Second_Largest": true,
-    "LeetCode_Sign_of_the_Product_of_an_Array": true
+    "LeetCode_Sign_of_the_Product_of_an_Array": true,
+    "GeeksForGeeks_Print_Hollow_Rectangle": true
   },
   "activityHistory": {
-    "2026-07-30": 19
+    "2026-07-30": 20
   },
   "todayProblems": [
     "Right Angle Triangle Pattern",
@@ -53,6 +54,7 @@
     "Count Odd and Even",
     "Largest in Array",
     "Second Largest",
-    "Sign of the Product of an Array"
+    "Sign of the Product of an Array",
+    "Print Hollow Rectangle"
   ]
 }
