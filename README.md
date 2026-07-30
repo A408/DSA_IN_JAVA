@@ -17,3 +17,4 @@
 | 15 | [Array Search](./GeeksForGeeks/Basic/Array%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | Basic | 30 Jul 2026 | 09:48 am |
 | 16 | [Count Odd and Even](./GeeksForGeeks/Basic/Count%20Odd%20and%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-odd-even/1) | Basic | 30 Jul 2026 | 09:58 am |
 | 17 | [Largest in Array](./GeeksForGeeks/Basic/Largest%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | Basic | 30 Jul 2026 | 10:00 am |
+| 18 | [Second Largest](./GeeksForGeeks/Easy/Second%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | 30 Jul 2026 | 10:00 am |
