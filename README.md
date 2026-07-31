@@ -31,3 +31,4 @@
 | 29 | [Right-Angled Number Triangle Pattern](./GeeksForGeeks/Basic/Right-Angled%20Number%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-angled-number-triangle/1) | Basic | 31 Jul 2026 | 10:08 am |
 | 30 | [number pattens](./Manual/Easy/number%20pattens) | Manual | Easy | 31 Jul 2026 | 10:29 am |
 | 31 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 31 Jul 2026 | 08:48 pm |
+| 32 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 31 Jul 2026 | 08:53 pm |
