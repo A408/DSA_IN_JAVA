@@ -26,3 +26,4 @@
 | 24 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 30 Jul 2026 | 09:26 pm |
 | 25 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 30 Jul 2026 | 09:41 pm |
 | 26 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 31 Jul 2026 | 07:53 am |
+| 27 | [Minimum Number of Pushes to Type Word II](./LeetCode/Medium/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | 31 Jul 2026 | 07:56 am |

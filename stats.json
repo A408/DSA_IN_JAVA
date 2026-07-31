@@ -1,12 +1,12 @@
 {
-  "totalSolved": 26,
+  "totalSolved": 27,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 10
   },
@@ -36,13 +36,15 @@
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
     "LeetCode_Remove_Element": true,
     "LeetCode_Move_Zeroes": true,
-    "LeetCode_Pascal's_Triangle": true
+    "LeetCode_Pascal's_Triangle": true,
+    "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true
   },
   "activityHistory": {
     "2026-07-30": 25,
-    "2026-07-31": 1
+    "2026-07-31": 2
   },
   "todayProblems": [
-    "Pascal's Triangle"
+    "Pascal's Triangle",
+    "Minimum Number of Pushes to Type Word II"
   ]
 }
