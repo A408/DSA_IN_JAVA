@@ -1,11 +1,11 @@
 {
-  "totalSolved": 30,
+  "totalSolved": 31,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 16,
+    "easy": 17,
     "medium": 3,
     "hard": 0,
     "basic": 11
@@ -40,17 +40,19 @@
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true,
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_I": true,
     "Manual_Diamond_Shape_Pattern": true,
-    "GeeksForGeeks_Right-Angled_Number_Triangle_Pattern": true
+    "GeeksForGeeks_Right-Angled_Number_Triangle_Pattern": true,
+    "Manual_number_pattens": true
   },
   "activityHistory": {
     "2026-07-30": 25,
-    "2026-07-31": 5
+    "2026-07-31": 6
   },
   "todayProblems": [
     "Pascal's Triangle",
     "Minimum Number of Pushes to Type Word II",
     "Minimum Number of Pushes to Type Word I",
     "Diamond Shape Pattern",
-    "Right-Angled Number Triangle Pattern"
+    "Right-Angled Number Triangle Pattern",
+    "number pattens"
   ]
 }

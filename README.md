@@ -29,3 +29,4 @@
 | 27 | [Minimum Number of Pushes to Type Word II](./LeetCode/Medium/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | 31 Jul 2026 | 07:56 am |
 | 28 | [Minimum Number of Pushes to Type Word I](./LeetCode/Easy/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | 31 Jul 2026 | 07:58 am |
 | 29 | [Right-Angled Number Triangle Pattern](./GeeksForGeeks/Basic/Right-Angled%20Number%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-angled-number-triangle/1) | Basic | 31 Jul 2026 | 10:08 am |
+| 30 | [number pattens](./Manual/Easy/number%20pattens) | Manual | Easy | 31 Jul 2026 | 10:29 am |
