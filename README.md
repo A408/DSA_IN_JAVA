@@ -34,3 +34,4 @@
 | 32 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 31 Jul 2026 | 08:53 pm |
 | 33 | [Two Sum II - Input Array Is Sorted](./LeetCode/Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | 31 Jul 2026 | 09:26 pm |
 | 34 | [Predict the Winner](./LeetCode/Medium/Predict%20the%20Winner) | [LeetCode](https://leetcode.com/problems/predict-the-winner/) | Medium | 01 Aug 2026 | 07:45 am |
+| 35 | [Maximum Average Subarray I](./LeetCode/Easy/Maximum%20Average%20Subarray%20I) | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 01 Aug 2026 | 09:12 pm |
