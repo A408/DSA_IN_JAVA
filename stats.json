@@ -1,11 +1,11 @@
 {
-  "totalSolved": 39,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-08-03",
+  "totalSolved": 40,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-08-04",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 20,
+    "easy": 21,
     "medium": 8,
     "hard": 0,
     "basic": 11
@@ -49,16 +49,18 @@
     "LeetCode_Maximum_Average_Subarray_I": true,
     "LeetCode_Stone_Game": true,
     "LeetCode_Minimum_Size_Subarray_Sum": true,
-    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
+    "LeetCode_Sum_of_Unique_Elements": true
   },
   "activityHistory": {
     "2026-07-30": 25,
     "2026-07-31": 9,
     "2026-08-01": 2,
     "2026-08-02": 2,
-    "2026-08-03": 1
+    "2026-08-03": 1,
+    "2026-08-04": 1
   },
   "todayProblems": [
-    "Longest Substring Without Repeating Characters"
+    "Sum of Unique Elements"
   ]
 }
