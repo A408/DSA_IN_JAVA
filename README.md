@@ -41,3 +41,4 @@
 | 39 | [Sum of Unique Elements](./LeetCode/Easy/Sum%20of%20Unique%20Elements) | [LeetCode](https://leetcode.com/problems/sum-of-unique-elements/) | Easy | 04 Aug 2026 | 08:38 am |
 | 40 | [Find Missing Elements](./LeetCode/Easy/Find%20Missing%20Elements) | [LeetCode](https://leetcode.com/problems/find-missing-elements/) | Easy | 04 Aug 2026 | 09:07 am |
 | 41 | [bubble_sort](./Manual/Easy/bubble_sort) | Manual | Easy | 04 Aug 2026 | 10:09 am |
+| 42 | [Calculate Money in Leetcode Bank](./LeetCode/Easy/Calculate%20Money%20in%20Leetcode%20Bank) | [LeetCode](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy | 04 Aug 2026 | 11:54 am |
