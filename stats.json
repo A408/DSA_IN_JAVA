@@ -1,11 +1,11 @@
 {
-  "totalSolved": 41,
+  "totalSolved": 42,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 22,
+    "easy": 23,
     "medium": 8,
     "hard": 0,
     "basic": 11
@@ -51,7 +51,8 @@
     "LeetCode_Minimum_Size_Subarray_Sum": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
     "LeetCode_Sum_of_Unique_Elements": true,
-    "LeetCode_Find_Missing_Elements": true
+    "LeetCode_Find_Missing_Elements": true,
+    "Manual_bubble_sort": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -59,10 +60,11 @@
     "2026-08-01": 2,
     "2026-08-02": 2,
     "2026-08-03": 1,
-    "2026-08-04": 2
+    "2026-08-04": 3
   },
   "todayProblems": [
     "Sum of Unique Elements",
-    "Find Missing Elements"
+    "Find Missing Elements",
+    "bubble_sort"
   ]
 }
