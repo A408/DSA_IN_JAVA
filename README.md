@@ -42,3 +42,4 @@
 | 40 | [Find Missing Elements](./LeetCode/Easy/Find%20Missing%20Elements) | [LeetCode](https://leetcode.com/problems/find-missing-elements/) | Easy | 04 Aug 2026 | 09:07 am |
 | 41 | [bubble_sort](./Manual/Easy/bubble_sort) | Manual | Easy | 04 Aug 2026 | 10:09 am |
 | 42 | [Calculate Money in Leetcode Bank](./LeetCode/Easy/Calculate%20Money%20in%20Leetcode%20Bank) | [LeetCode](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy | 04 Aug 2026 | 11:54 am |
+| 43 | [Bubble Sort](./GeeksForGeeks/Easy/Bubble%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bubble-sort/1) | Easy | 04 Aug 2026 | 12:46 pm |
