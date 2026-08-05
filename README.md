@@ -46,3 +46,4 @@
 | 44 | [Array Traversal](./GeeksForGeeks/Basic/Array%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-traversal/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 04 Aug 2026 | 12:54 pm |
 | 45 | [Selection Sort](./GeeksForGeeks/Easy/Selection%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/selection-sort/1) | Easy | 05 Aug 2026 | 08:20 am |
 | 46 | [Subarrays with Sum in Range](./GeeksForGeeks/Hard/Subarrays%20with%20Sum%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-number-of-subarrays/1) | Hard | 05 Aug 2026 | 09:32 am |
+| 47 | [Insertion Sort](./GeeksForGeeks/Easy/Insertion%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insertion-sort/1) | Easy | 05 Aug 2026 | 09:42 am |
