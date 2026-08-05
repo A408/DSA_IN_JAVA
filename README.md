@@ -44,3 +44,4 @@
 | 42 | [Calculate Money in Leetcode Bank](./LeetCode/Easy/Calculate%20Money%20in%20Leetcode%20Bank) | [LeetCode](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy | 04 Aug 2026 | 11:54 am |
 | 43 | [Bubble Sort](./GeeksForGeeks/Easy/Bubble%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bubble-sort/1) | Easy | 04 Aug 2026 | 12:46 pm |
 | 44 | [Array Traversal](./GeeksForGeeks/Basic/Array%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-traversal/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 04 Aug 2026 | 12:54 pm |
+| 45 | [Selection Sort](./GeeksForGeeks/Easy/Selection%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/selection-sort/1) | Easy | 05 Aug 2026 | 08:20 am |
