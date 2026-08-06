@@ -1,11 +1,11 @@
 {
-  "totalSolved": 51,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-08-05",
-  "todayCount": 6,
+  "totalSolved": 52,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-08-06",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 29,
+    "easy": 30,
     "medium": 9,
     "hard": 1,
     "basic": 12
@@ -61,7 +61,8 @@
     "GeeksForGeeks_Insertion_Sort": true,
     "LeetCode_Subarray_Sum_Equals_K": true,
     "GeeksForGeeks_Check_if_array_contains_duplicates": true,
-    "LeetCode_Two_Sum": true
+    "LeetCode_Two_Sum": true,
+    "LeetCode_Smallest_Divisible_Digit_Product_I": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -70,14 +71,10 @@
     "2026-08-02": 2,
     "2026-08-03": 1,
     "2026-08-04": 6,
-    "2026-08-05": 6
+    "2026-08-05": 6,
+    "2026-08-06": 1
   },
   "todayProblems": [
-    "Selection Sort",
-    "Subarrays with Sum in Range",
-    "Insertion Sort",
-    "Subarray Sum Equals K",
-    "Check if array contains duplicates",
-    "Two Sum"
+    "Smallest Divisible Digit Product I"
   ]
 }

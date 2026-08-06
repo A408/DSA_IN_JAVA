@@ -50,3 +50,4 @@
 | 48 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 05 Aug 2026 | 12:00 pm |
 | 49 | [Check if array contains duplicates](./GeeksForGeeks/Easy/Check%20if%20array%20contains%20duplicates) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-array-contains-duplicates/1?utm=codolio) | Easy | 05 Aug 2026 | 12:21 pm |
 | 50 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 05 Aug 2026 | 12:26 pm |
+| 51 | [Smallest Divisible Digit Product I](./LeetCode/Easy/Smallest%20Divisible%20Digit%20Product%20I) | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy | 06 Aug 2026 | 09:52 am |
