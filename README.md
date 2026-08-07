@@ -52,3 +52,4 @@
 | 50 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 05 Aug 2026 | 12:26 pm |
 | 51 | [Smallest Divisible Digit Product I](./LeetCode/Easy/Smallest%20Divisible%20Digit%20Product%20I) | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy | 06 Aug 2026 | 09:52 am |
 | 52 | [string_methods](./Manual/Easy/string_methods) | Manual | Easy | 07 Aug 2026 | 08:56 pm |
+| 53 | [string_charAt_method_using_loop](./Manual/Easy/string_charAt_method_using_loop) | Manual | Easy | 07 Aug 2026 | 08:59 pm |
