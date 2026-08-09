@@ -55,3 +55,4 @@
 | 53 | [string_charAt_method_using_loop](./Manual/Easy/string_charAt_method_using_loop) | Manual | Easy | 07 Aug 2026 | 08:59 pm |
 | 54 | [String( Count Vowels)](./Manual/Easy/String(%20Count%20Vowels)) | Manual | Easy | 07 Aug 2026 | 09:12 pm |
 | 55 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 09 Aug 2026 | 07:09 pm |
+| 56 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 09 Aug 2026 | 09:47 pm |
