@@ -58,3 +58,4 @@
 | 56 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 09 Aug 2026 | 09:47 pm |
 | 57 | [Most Frequent in an Array](./GeeksForGeeks/Easy/Most%20Frequent%20in%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/most-frequent-element-in-an-array/1) | Easy | 10 Aug 2026 | 08:23 am |
 | 58 | [Sort 0s, 1s and 2s](./GeeksForGeeks/Medium/Sort%200s%2C%201s%20and%202s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | 10 Aug 2026 | 09:05 am |
+| 59 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 10 Aug 2026 | 09:31 am |
