@@ -61,3 +61,4 @@
 | 59 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 10 Aug 2026 | 09:31 am |
 | 60 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 11 Aug 2026 | 08:13 am |
 | 61 | [Determine Whether Matrix Can Be Obtained By Rotation](./LeetCode/Easy/Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) | [LeetCode](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | 11 Aug 2026 | 08:53 am |
+| 62 | [Duplicate Zeros](./LeetCode/Easy/Duplicate%20Zeros) | [LeetCode](https://leetcode.com/problems/duplicate-zeros/) | Easy | 11 Aug 2026 | 10:12 pm |
