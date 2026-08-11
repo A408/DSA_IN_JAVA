@@ -36,5 +36,13 @@ public class Main {
     String v1= String.valueOf(w);
     System.out.println(v1);
 
+
+        
+    String w = "hello";
+      for(char c : w.toCharArray()){
+        System.out.print(c + " ");
+
+        
+
     }
 }
