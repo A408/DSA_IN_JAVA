@@ -60,3 +60,4 @@
 | 58 | [Sort 0s, 1s and 2s](./GeeksForGeeks/Medium/Sort%200s%2C%201s%20and%202s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | 10 Aug 2026 | 09:05 am |
 | 59 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 10 Aug 2026 | 09:31 am |
 | 60 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 11 Aug 2026 | 08:13 am |
+| 61 | [Determine Whether Matrix Can Be Obtained By Rotation](./LeetCode/Easy/Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) | [LeetCode](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | 11 Aug 2026 | 08:53 am |
