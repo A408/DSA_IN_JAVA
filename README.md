@@ -63,3 +63,4 @@
 | 61 | [Determine Whether Matrix Can Be Obtained By Rotation](./LeetCode/Easy/Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) | [LeetCode](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | 11 Aug 2026 | 08:53 am |
 | 62 | [Duplicate Zeros](./LeetCode/Easy/Duplicate%20Zeros) | [LeetCode](https://leetcode.com/problems/duplicate-zeros/) | Easy | 11 Aug 2026 | 10:12 pm |
 | 63 | [Count Words in a String](./GeeksForGeeks/Easy/Count%20Words%20in%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Easy | 12 Aug 2026 | 09:51 am |
+| 64 | [Most Frequent Character](./GeeksForGeeks/Easy/Most%20Frequent%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1) | Easy | 12 Aug 2026 | 09:42 pm |
