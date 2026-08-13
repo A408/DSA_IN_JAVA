@@ -67,3 +67,4 @@
 | 65 | [Search a Character in a String](./GeeksForGeeks/Easy/Search%20a%20Character%20in%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-a-character-in-a-string/1) | Easy | 12 Aug 2026 | 09:46 pm |
 | 66 | [Convert Sentence to Camel Case](./GeeksForGeeks/Medium/Convert%20Sentence%20to%20Camel%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/convert-sentence-to-camel-case/1) | Medium | 13 Aug 2026 | 08:31 am |
 | 67 | [StringBuilder_In_Java(String|)](./Manual/Easy/StringBuilder_In_Java(String%7C)) | Manual | Easy | 13 Aug 2026 | 09:26 am |
+| 68 | [Capitalize the Title](./LeetCode/Easy/Capitalize%20the%20Title) | [LeetCode](https://leetcode.com/problems/capitalize-the-title/) | Easy | 13 Aug 2026 | 09:50 am |
