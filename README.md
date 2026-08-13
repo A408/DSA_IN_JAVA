@@ -65,3 +65,4 @@
 | 63 | [Count Words in a String](./GeeksForGeeks/Easy/Count%20Words%20in%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Easy | 12 Aug 2026 | 09:51 am |
 | 64 | [Most Frequent Character](./GeeksForGeeks/Easy/Most%20Frequent%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1) | Easy | 12 Aug 2026 | 09:42 pm |
 | 65 | [Search a Character in a String](./GeeksForGeeks/Easy/Search%20a%20Character%20in%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-a-character-in-a-string/1) | Easy | 12 Aug 2026 | 09:46 pm |
+| 66 | [Convert Sentence to Camel Case](./GeeksForGeeks/Medium/Convert%20Sentence%20to%20Camel%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/convert-sentence-to-camel-case/1) | Medium | 13 Aug 2026 | 08:31 am |

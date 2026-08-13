@@ -1,12 +1,12 @@
 {
-  "totalSolved": 67,
-  "currentStreak": 4,
+  "totalSolved": 68,
+  "currentStreak": 5,
   "maxStreak": 9,
-  "lastSyncDate": "2026-08-12",
-  "todayCount": 3,
+  "lastSyncDate": "2026-08-13",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 43,
-    "medium": 11,
+    "medium": 12,
     "hard": 1,
     "basic": 12
   },
@@ -77,7 +77,8 @@
     "LeetCode_Duplicate_Zeros": true,
     "GeeksForGeeks_Count_Words_in_a_String": true,
     "GeeksForGeeks_Most_Frequent_Character": true,
-    "GeeksForGeeks_Search_a_Character_in_a_String": true
+    "GeeksForGeeks_Search_a_Character_in_a_String": true,
+    "GeeksForGeeks_Convert_Sentence_to_Camel_Case": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -92,11 +93,10 @@
     "2026-08-09": 2,
     "2026-08-10": 3,
     "2026-08-11": 4,
-    "2026-08-12": 3
+    "2026-08-12": 3,
+    "2026-08-13": 1
   },
   "todayProblems": [
-    "Count Words in a String",
-    "Most Frequent Character",
-    "Search a Character in a String"
+    "Convert Sentence to Camel Case"
   ]
 }
