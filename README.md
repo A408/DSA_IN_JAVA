@@ -87,3 +87,4 @@
 | 85 | [The FizzBuzz Program](./GeeksForGeeks/Easy/The%20FizzBuzz%20Program) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1?page=1&category=Java&sortBy=submissions) | Easy | 17 Aug 2026 | 08:53 pm |
 | 86 | [Even Positioned Characters](./GeeksForGeeks/Basic/Even%20Positioned%20Characters) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/for-loop-2/1?page=1&category=Java&sortBy=submissions) | Basic | 17 Aug 2026 | 09:15 pm |
 | 87 | [Last Digit of Number](./GeeksForGeeks/Basic/Last%20Digit%20of%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/last-digit-of-a-number--145429/1?page=1&category=Java&sortBy=submissions) | Basic | 17 Aug 2026 | 09:21 pm |
+| 88 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 17 Aug 2026 | 09:25 pm |
