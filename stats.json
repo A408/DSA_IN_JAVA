@@ -1,11 +1,11 @@
 {
-  "totalSolved": 71,
+  "totalSolved": 72,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 45,
+    "easy": 46,
     "medium": 12,
     "hard": 1,
     "basic": 13
@@ -81,7 +81,8 @@
     "GeeksForGeeks_Convert_Sentence_to_Camel_Case": true,
     "Manual_StringBuilder_In_Java(String|)": true,
     "LeetCode_Capitalize_the_Title": true,
-    "GeeksForGeeks_Reverse_a_String": true
+    "GeeksForGeeks_Reverse_a_String": true,
+    "LeetCode_Defanging_an_IP_Address": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -98,9 +99,10 @@
     "2026-08-11": 4,
     "2026-08-12": 3,
     "2026-08-13": 3,
-    "2026-08-17": 1
+    "2026-08-17": 2
   },
   "todayProblems": [
-    "Reverse a String"
+    "Reverse a String",
+    "Defanging an IP Address"
   ]
 }
