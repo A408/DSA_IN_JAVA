@@ -72,3 +72,4 @@
 | 70 | [Defanging an IP Address](./LeetCode/Easy/Defanging%20an%20IP%20Address) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | 17 Aug 2026 | 08:22 am |
 | 71 | [Goal Parser Interpretation](./LeetCode/Easy/Goal%20Parser%20Interpretation) | [LeetCode](https://leetcode.com/problems/goal-parser-interpretation/) | Easy | 17 Aug 2026 | 08:51 am |
 | 72 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 17 Aug 2026 | 09:01 am |
+| 73 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 17 Aug 2026 | 09:46 am |
