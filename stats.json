@@ -1,14 +1,14 @@
 {
-  "totalSolved": 70,
-  "currentStreak": 5,
+  "totalSolved": 71,
+  "currentStreak": 1,
   "maxStreak": 9,
-  "lastSyncDate": "2026-08-13",
-  "todayCount": 3,
+  "lastSyncDate": "2026-08-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 45,
     "medium": 12,
     "hard": 1,
-    "basic": 12
+    "basic": 13
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -80,7 +80,8 @@
     "GeeksForGeeks_Search_a_Character_in_a_String": true,
     "GeeksForGeeks_Convert_Sentence_to_Camel_Case": true,
     "Manual_StringBuilder_In_Java(String|)": true,
-    "LeetCode_Capitalize_the_Title": true
+    "LeetCode_Capitalize_the_Title": true,
+    "GeeksForGeeks_Reverse_a_String": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -96,11 +97,10 @@
     "2026-08-10": 3,
     "2026-08-11": 4,
     "2026-08-12": 3,
-    "2026-08-13": 3
+    "2026-08-13": 3,
+    "2026-08-17": 1
   },
   "todayProblems": [
-    "Convert Sentence to Camel Case",
-    "StringBuilder_In_Java(String|)",
-    "Capitalize the Title"
+    "Reverse a String"
   ]
 }
