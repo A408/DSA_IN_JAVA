@@ -1,11 +1,11 @@
 {
-  "totalSolved": 75,
+  "totalSolved": 76,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 49,
+    "easy": 50,
     "medium": 12,
     "hard": 1,
     "basic": 13
@@ -85,7 +85,8 @@
     "LeetCode_Defanging_an_IP_Address": true,
     "LeetCode_Goal_Parser_Interpretation": true,
     "LeetCode_Length_of_Last_Word": true,
-    "LeetCode_Reverse_String": true
+    "LeetCode_Reverse_String": true,
+    "LeetCode_Valid_Anagram": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -102,13 +103,14 @@
     "2026-08-11": 4,
     "2026-08-12": 3,
     "2026-08-13": 3,
-    "2026-08-17": 5
+    "2026-08-17": 6
   },
   "todayProblems": [
     "Reverse a String",
     "Defanging an IP Address",
     "Goal Parser Interpretation",
     "Length of Last Word",
-    "Reverse String"
+    "Reverse String",
+    "Valid Anagram"
   ]
 }

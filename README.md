@@ -73,3 +73,4 @@
 | 71 | [Goal Parser Interpretation](./LeetCode/Easy/Goal%20Parser%20Interpretation) | [LeetCode](https://leetcode.com/problems/goal-parser-interpretation/) | Easy | 17 Aug 2026 | 08:51 am |
 | 72 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 17 Aug 2026 | 09:01 am |
 | 73 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 17 Aug 2026 | 09:46 am |
+| 74 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 17 Aug 2026 | 10:04 am |
