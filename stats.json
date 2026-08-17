@@ -1,11 +1,11 @@
 {
-  "totalSolved": 84,
+  "totalSolved": 85,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 14,
+  "todayCount": 15,
   "difficultyCounts": {
-    "easy": 54,
+    "easy": 55,
     "medium": 12,
     "hard": 1,
     "basic": 17
@@ -94,7 +94,8 @@
     "GeeksForGeeks_The_Else_if_Statement": true,
     "GeeksForGeeks_Odd_or_Even": true,
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
-    "GeeksForGeeks_Floyd's_triangle": true
+    "GeeksForGeeks_Floyd's_triangle": true,
+    "GeeksForGeeks_Check_Sorted_Array": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -111,7 +112,7 @@
     "2026-08-11": 4,
     "2026-08-12": 3,
     "2026-08-13": 3,
-    "2026-08-17": 14
+    "2026-08-17": 15
   },
   "todayProblems": [
     "Reverse a String",
@@ -127,6 +128,7 @@
     "The Else if Statement",
     "Odd or Even",
     "Sum of Natural Numbers",
-    "Floyd's triangle"
+    "Floyd's triangle",
+    "Check Sorted Array"
   ]
 }
