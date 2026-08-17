@@ -1,14 +1,14 @@
 {
-  "totalSolved": 87,
+  "totalSolved": 88,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 17,
+  "todayCount": 18,
   "difficultyCounts": {
     "easy": 56,
     "medium": 12,
     "hard": 1,
-    "basic": 18
+    "basic": 19
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -97,7 +97,8 @@
     "GeeksForGeeks_Floyd's_triangle": true,
     "GeeksForGeeks_Check_Sorted_Array": true,
     "GeeksForGeeks_Solid_Rectangle": true,
-    "GeeksForGeeks_The_FizzBuzz_Program": true
+    "GeeksForGeeks_The_FizzBuzz_Program": true,
+    "GeeksForGeeks_Even_Positioned_Characters": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -114,7 +115,7 @@
     "2026-08-11": 4,
     "2026-08-12": 3,
     "2026-08-13": 3,
-    "2026-08-17": 17
+    "2026-08-17": 18
   },
   "todayProblems": [
     "Reverse a String",
@@ -133,6 +134,7 @@
     "Floyd's triangle",
     "Check Sorted Array",
     "Solid Rectangle",
-    "The FizzBuzz Program"
+    "The FizzBuzz Program",
+    "Even Positioned Characters"
   ]
 }
