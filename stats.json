@@ -1,11 +1,11 @@
 {
-  "totalSolved": 86,
+  "totalSolved": 87,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 16,
+  "todayCount": 17,
   "difficultyCounts": {
-    "easy": 55,
+    "easy": 56,
     "medium": 12,
     "hard": 1,
     "basic": 18
@@ -96,7 +96,8 @@
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
     "GeeksForGeeks_Floyd's_triangle": true,
     "GeeksForGeeks_Check_Sorted_Array": true,
-    "GeeksForGeeks_Solid_Rectangle": true
+    "GeeksForGeeks_Solid_Rectangle": true,
+    "GeeksForGeeks_The_FizzBuzz_Program": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -113,7 +114,7 @@
     "2026-08-11": 4,
     "2026-08-12": 3,
     "2026-08-13": 3,
-    "2026-08-17": 16
+    "2026-08-17": 17
   },
   "todayProblems": [
     "Reverse a String",
@@ -131,6 +132,7 @@
     "Sum of Natural Numbers",
     "Floyd's triangle",
     "Check Sorted Array",
-    "Solid Rectangle"
+    "Solid Rectangle",
+    "The FizzBuzz Program"
   ]
 }

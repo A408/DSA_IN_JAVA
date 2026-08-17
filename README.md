@@ -84,3 +84,4 @@
 | 82 | [Floyd's triangle](./GeeksForGeeks/Basic/Floyd's%20triangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/floyds-triangle1222/1?) | Basic | 17 Aug 2026 | 11:53 am |
 | 83 | [Check Sorted Array](./GeeksForGeeks/Easy/Check%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1?) | Easy | 17 Aug 2026 | 11:59 am |
 | 84 | [Solid Rectangle](./GeeksForGeeks/Basic/Solid%20Rectangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/solid-rectangle/1?) | Basic | 17 Aug 2026 | 12:04 pm |
+| 85 | [The FizzBuzz Program](./GeeksForGeeks/Easy/The%20FizzBuzz%20Program) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1?page=1&category=Java&sortBy=submissions) | Easy | 17 Aug 2026 | 08:53 pm |
