@@ -76,3 +76,4 @@
 | 74 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 17 Aug 2026 | 10:04 am |
 | 75 | [Check If Two String Arrays are Equivalent](./LeetCode/Easy/Check%20If%20Two%20String%20Arrays%20are%20Equivalent) | [LeetCode](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | 17 Aug 2026 | 10:10 am |
 | 76 | [While Loop](./GeeksForGeeks/Basic/While%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/while-loop/1?) | Basic | 17 Aug 2026 | 10:23 am |
+| 77 | [To Lower Case](./LeetCode/Easy/To%20Lower%20Case) | [LeetCode](https://leetcode.com/problems/to-lower-case/) | Easy | 17 Aug 2026 | 10:30 am |
