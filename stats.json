@@ -1,11 +1,11 @@
 {
-  "totalSolved": 82,
+  "totalSolved": 83,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 12,
+  "todayCount": 13,
   "difficultyCounts": {
-    "easy": 53,
+    "easy": 54,
     "medium": 12,
     "hard": 1,
     "basic": 16
@@ -92,7 +92,8 @@
     "LeetCode_To_Lower_Case": true,
     "GeeksForGeeks_Multiplication_Table": true,
     "GeeksForGeeks_The_Else_if_Statement": true,
-    "GeeksForGeeks_Odd_or_Even": true
+    "GeeksForGeeks_Odd_or_Even": true,
+    "GeeksForGeeks_Sum_of_Natural_Numbers": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -109,7 +110,7 @@
     "2026-08-11": 4,
     "2026-08-12": 3,
     "2026-08-13": 3,
-    "2026-08-17": 12
+    "2026-08-17": 13
   },
   "todayProblems": [
     "Reverse a String",
@@ -123,6 +124,7 @@
     "To Lower Case",
     "Multiplication Table",
     "The Else if Statement",
-    "Odd or Even"
+    "Odd or Even",
+    "Sum of Natural Numbers"
   ]
 }
