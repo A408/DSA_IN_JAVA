@@ -1,14 +1,14 @@
 {
-  "totalSolved": 80,
+  "totalSolved": 81,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 53,
     "medium": 12,
     "hard": 1,
-    "basic": 14
+    "basic": 15
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -90,7 +90,8 @@
     "LeetCode_Check_If_Two_String_Arrays_are_Equivalent": true,
     "GeeksForGeeks_While_Loop": true,
     "LeetCode_To_Lower_Case": true,
-    "GeeksForGeeks_Multiplication_Table": true
+    "GeeksForGeeks_Multiplication_Table": true,
+    "GeeksForGeeks_The_Else_if_Statement": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -107,7 +108,7 @@
     "2026-08-11": 4,
     "2026-08-12": 3,
     "2026-08-13": 3,
-    "2026-08-17": 10
+    "2026-08-17": 11
   },
   "todayProblems": [
     "Reverse a String",
@@ -119,6 +120,7 @@
     "Check If Two String Arrays are Equivalent",
     "While Loop",
     "To Lower Case",
-    "Multiplication Table"
+    "Multiplication Table",
+    "The Else if Statement"
   ]
 }
