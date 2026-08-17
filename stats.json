@@ -1,14 +1,14 @@
 {
-  "totalSolved": 88,
+  "totalSolved": 89,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 18,
+  "todayCount": 19,
   "difficultyCounts": {
     "easy": 56,
     "medium": 12,
     "hard": 1,
-    "basic": 19
+    "basic": 20
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -98,7 +98,8 @@
     "GeeksForGeeks_Check_Sorted_Array": true,
     "GeeksForGeeks_Solid_Rectangle": true,
     "GeeksForGeeks_The_FizzBuzz_Program": true,
-    "GeeksForGeeks_Even_Positioned_Characters": true
+    "GeeksForGeeks_Even_Positioned_Characters": true,
+    "GeeksForGeeks_Last_Digit_of_Number": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -115,7 +116,7 @@
     "2026-08-11": 4,
     "2026-08-12": 3,
     "2026-08-13": 3,
-    "2026-08-17": 18
+    "2026-08-17": 19
   },
   "todayProblems": [
     "Reverse a String",
@@ -135,6 +136,7 @@
     "Check Sorted Array",
     "Solid Rectangle",
     "The FizzBuzz Program",
-    "Even Positioned Characters"
+    "Even Positioned Characters",
+    "Last Digit of Number"
   ]
 }

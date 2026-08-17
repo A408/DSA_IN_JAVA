@@ -86,3 +86,4 @@
 | 84 | [Solid Rectangle](./GeeksForGeeks/Basic/Solid%20Rectangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/solid-rectangle/1?) | Basic | 17 Aug 2026 | 12:04 pm |
 | 85 | [The FizzBuzz Program](./GeeksForGeeks/Easy/The%20FizzBuzz%20Program) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1?page=1&category=Java&sortBy=submissions) | Easy | 17 Aug 2026 | 08:53 pm |
 | 86 | [Even Positioned Characters](./GeeksForGeeks/Basic/Even%20Positioned%20Characters) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/for-loop-2/1?page=1&category=Java&sortBy=submissions) | Basic | 17 Aug 2026 | 09:15 pm |
+| 87 | [Last Digit of Number](./GeeksForGeeks/Basic/Last%20Digit%20of%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/last-digit-of-a-number--145429/1?page=1&category=Java&sortBy=submissions) | Basic | 17 Aug 2026 | 09:21 pm |
