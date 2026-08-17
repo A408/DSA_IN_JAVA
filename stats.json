@@ -1,14 +1,14 @@
 {
-  "totalSolved": 77,
+  "totalSolved": 78,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 51,
     "medium": 12,
     "hard": 1,
-    "basic": 13
+    "basic": 14
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -87,7 +87,8 @@
     "LeetCode_Length_of_Last_Word": true,
     "LeetCode_Reverse_String": true,
     "LeetCode_Valid_Anagram": true,
-    "LeetCode_Check_If_Two_String_Arrays_are_Equivalent": true
+    "LeetCode_Check_If_Two_String_Arrays_are_Equivalent": true,
+    "GeeksForGeeks_While_Loop": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -104,7 +105,7 @@
     "2026-08-11": 4,
     "2026-08-12": 3,
     "2026-08-13": 3,
-    "2026-08-17": 7
+    "2026-08-17": 8
   },
   "todayProblems": [
     "Reverse a String",
@@ -113,6 +114,7 @@
     "Length of Last Word",
     "Reverse String",
     "Valid Anagram",
-    "Check If Two String Arrays are Equivalent"
+    "Check If Two String Arrays are Equivalent",
+    "While Loop"
   ]
 }
