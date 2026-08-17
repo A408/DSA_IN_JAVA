@@ -1,14 +1,14 @@
 {
-  "totalSolved": 81,
+  "totalSolved": 82,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
     "easy": 53,
     "medium": 12,
     "hard": 1,
-    "basic": 15
+    "basic": 16
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -91,7 +91,8 @@
     "GeeksForGeeks_While_Loop": true,
     "LeetCode_To_Lower_Case": true,
     "GeeksForGeeks_Multiplication_Table": true,
-    "GeeksForGeeks_The_Else_if_Statement": true
+    "GeeksForGeeks_The_Else_if_Statement": true,
+    "GeeksForGeeks_Odd_or_Even": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -108,7 +109,7 @@
     "2026-08-11": 4,
     "2026-08-12": 3,
     "2026-08-13": 3,
-    "2026-08-17": 11
+    "2026-08-17": 12
   },
   "todayProblems": [
     "Reverse a String",
@@ -121,6 +122,7 @@
     "While Loop",
     "To Lower Case",
     "Multiplication Table",
-    "The Else if Statement"
+    "The Else if Statement",
+    "Odd or Even"
   ]
 }

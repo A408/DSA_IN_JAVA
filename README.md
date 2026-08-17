@@ -79,3 +79,4 @@
 | 77 | [To Lower Case](./LeetCode/Easy/To%20Lower%20Case) | [LeetCode](https://leetcode.com/problems/to-lower-case/) | Easy | 17 Aug 2026 | 10:30 am |
 | 78 | [Multiplication Table](./GeeksForGeeks/Easy/Multiplication%20Table) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/multiplication-table/1?) | Easy | 17 Aug 2026 | 10:38 am |
 | 79 | [The Else if Statement](./GeeksForGeeks/Basic/The%20Else%20if%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-else-if-statement/1?) | Basic | 17 Aug 2026 | 10:53 am |
+| 80 | [Odd or Even](./GeeksForGeeks/Basic/Odd%20or%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/odd-or-even3618/1?) | Basic | 17 Aug 2026 | 11:02 am |
