@@ -1,11 +1,11 @@
 {
-  "totalSolved": 97,
+  "totalSolved": 98,
   "currentStreak": 2,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
-    "easy": 59,
+    "easy": 60,
     "medium": 13,
     "hard": 1,
     "basic": 24
@@ -107,7 +107,8 @@
     "GeeksForGeeks_Type_Conversion": true,
     "GeeksForGeeks_Function_With_Return": true,
     "LeetCode_Largest_Odd_Number_in_String": true,
-    "LeetCode_Reverse_Words_in_a_String": true
+    "LeetCode_Reverse_Words_in_a_String": true,
+    "LeetCode_Rotate_String": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -125,7 +126,7 @@
     "2026-08-12": 3,
     "2026-08-13": 3,
     "2026-08-17": 20,
-    "2026-08-18": 7
+    "2026-08-18": 8
   },
   "todayProblems": [
     "Bitwise Operators",
@@ -134,6 +135,7 @@
     "Type Conversion",
     "Function With Return",
     "Largest Odd Number in String",
-    "Reverse Words in a String"
+    "Reverse Words in a String",
+    "Rotate String"
   ]
 }
