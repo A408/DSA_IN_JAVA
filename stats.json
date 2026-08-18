@@ -1,14 +1,14 @@
 {
-  "totalSolved": 91,
+  "totalSolved": 92,
   "currentStreak": 2,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 57,
     "medium": 12,
     "hard": 1,
-    "basic": 21
+    "basic": 22
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -101,7 +101,8 @@
     "GeeksForGeeks_Even_Positioned_Characters": true,
     "GeeksForGeeks_Last_Digit_of_Number": true,
     "LeetCode_First_Unique_Character_in_a_String": true,
-    "GeeksForGeeks_Bitwise_Operators": true
+    "GeeksForGeeks_Bitwise_Operators": true,
+    "GeeksForGeeks_The_If_Statement": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -119,9 +120,10 @@
     "2026-08-12": 3,
     "2026-08-13": 3,
     "2026-08-17": 20,
-    "2026-08-18": 1
+    "2026-08-18": 2
   },
   "todayProblems": [
-    "Bitwise Operators"
+    "Bitwise Operators",
+    "The If Statement"
   ]
 }
