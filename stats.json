@@ -1,14 +1,14 @@
 {
-  "totalSolved": 90,
-  "currentStreak": 1,
+  "totalSolved": 91,
+  "currentStreak": 2,
   "maxStreak": 9,
-  "lastSyncDate": "2026-08-17",
-  "todayCount": 20,
+  "lastSyncDate": "2026-08-18",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 57,
     "medium": 12,
     "hard": 1,
-    "basic": 20
+    "basic": 21
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -100,7 +100,8 @@
     "GeeksForGeeks_The_FizzBuzz_Program": true,
     "GeeksForGeeks_Even_Positioned_Characters": true,
     "GeeksForGeeks_Last_Digit_of_Number": true,
-    "LeetCode_First_Unique_Character_in_a_String": true
+    "LeetCode_First_Unique_Character_in_a_String": true,
+    "GeeksForGeeks_Bitwise_Operators": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -117,28 +118,10 @@
     "2026-08-11": 4,
     "2026-08-12": 3,
     "2026-08-13": 3,
-    "2026-08-17": 20
+    "2026-08-17": 20,
+    "2026-08-18": 1
   },
   "todayProblems": [
-    "Reverse a String",
-    "Defanging an IP Address",
-    "Goal Parser Interpretation",
-    "Length of Last Word",
-    "Reverse String",
-    "Valid Anagram",
-    "Check If Two String Arrays are Equivalent",
-    "While Loop",
-    "To Lower Case",
-    "Multiplication Table",
-    "The Else if Statement",
-    "Odd or Even",
-    "Sum of Natural Numbers",
-    "Floyd's triangle",
-    "Check Sorted Array",
-    "Solid Rectangle",
-    "The FizzBuzz Program",
-    "Even Positioned Characters",
-    "Last Digit of Number",
-    "First Unique Character in a String"
+    "Bitwise Operators"
   ]
 }
