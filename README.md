@@ -91,3 +91,4 @@
 | 89 | [Bitwise Operators](./GeeksForGeeks/Basic/Bitwise%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bitwise-operators-1597314674--135255/1?page=1&category=Java&sortBy=submissions) | Basic | 18 Aug 2026 | 07:14 am |
 | 90 | [The If Statement](./GeeksForGeeks/Basic/The%20If%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-if-statement--113256/1?page=1&category=Java&sortBy=submissions) | Basic | 18 Aug 2026 | 07:17 am |
 | 91 | [Convert String to Lower Case](./GeeksForGeeks/Basic/Convert%20String%20to%20Lower%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/convert-string-to-lowercase/1?page=1&category=Java&sortBy=submissions) | Basic | 18 Aug 2026 | 07:21 am |
+| 92 | [Type Conversion](./GeeksForGeeks/Easy/Type%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/type-conversion--151956/1?page=1&category=Java&sortBy=submissions) | Easy | 18 Aug 2026 | 07:28 am |

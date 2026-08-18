@@ -1,11 +1,11 @@
 {
-  "totalSolved": 93,
+  "totalSolved": 94,
   "currentStreak": 2,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 57,
+    "easy": 58,
     "medium": 12,
     "hard": 1,
     "basic": 23
@@ -103,7 +103,8 @@
     "LeetCode_First_Unique_Character_in_a_String": true,
     "GeeksForGeeks_Bitwise_Operators": true,
     "GeeksForGeeks_The_If_Statement": true,
-    "GeeksForGeeks_Convert_String_to_Lower_Case": true
+    "GeeksForGeeks_Convert_String_to_Lower_Case": true,
+    "GeeksForGeeks_Type_Conversion": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -121,11 +122,12 @@
     "2026-08-12": 3,
     "2026-08-13": 3,
     "2026-08-17": 20,
-    "2026-08-18": 3
+    "2026-08-18": 4
   },
   "todayProblems": [
     "Bitwise Operators",
     "The If Statement",
-    "Convert String to Lower Case"
+    "Convert String to Lower Case",
+    "Type Conversion"
   ]
 }
