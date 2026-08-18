@@ -94,3 +94,4 @@
 | 92 | [Type Conversion](./GeeksForGeeks/Easy/Type%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/type-conversion--151956/1?page=1&category=Java&sortBy=submissions) | Easy | 18 Aug 2026 | 07:28 am |
 | 93 | [Function With Return](./GeeksForGeeks/Basic/Function%20With%20Return) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/function-with-return-value/1?page=1&category=Java&sortBy=submissions) | Basic | 18 Aug 2026 | 07:29 am |
 | 94 | [Largest Odd Number in String](./LeetCode/Easy/Largest%20Odd%20Number%20in%20String) | [LeetCode](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy | 18 Aug 2026 | 08:19 am |
+| 95 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 18 Aug 2026 | 09:27 am |
