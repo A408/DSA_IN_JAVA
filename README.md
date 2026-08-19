@@ -97,3 +97,4 @@
 | 95 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 18 Aug 2026 | 09:27 am |
 | 96 | [Rotate String](./LeetCode/Easy/Rotate%20String) | [LeetCode](https://leetcode.com/problems/rotate-string/) | Easy | 18 Aug 2026 | 10:21 am |
 | 97 | [Shuffle String](./LeetCode/Easy/Shuffle%20String) | [LeetCode](https://leetcode.com/problems/shuffle-string/) | Easy | 18 Aug 2026 | 10:47 am |
+| 98 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 19 Aug 2026 | 09:15 pm |
