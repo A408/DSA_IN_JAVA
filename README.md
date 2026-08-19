@@ -98,3 +98,4 @@
 | 96 | [Rotate String](./LeetCode/Easy/Rotate%20String) | [LeetCode](https://leetcode.com/problems/rotate-string/) | Easy | 18 Aug 2026 | 10:21 am |
 | 97 | [Shuffle String](./LeetCode/Easy/Shuffle%20String) | [LeetCode](https://leetcode.com/problems/shuffle-string/) | Easy | 18 Aug 2026 | 10:47 am |
 | 98 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 19 Aug 2026 | 09:15 pm |
+| 99 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 19 Aug 2026 | 09:53 pm |
