@@ -102,3 +102,4 @@
 | 100 | [Maximum Odd Binary Number](./LeetCode/Easy/Maximum%20Odd%20Binary%20Number) | [LeetCode](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | 20 Aug 2026 | 08:34 am |
 | 101 | [Minimum Length of String After Deleting Similar Ends](./LeetCode/Medium/Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends) | [LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | Medium | 21 Aug 2026 | 07:35 am |
 | 102 | [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | 21 Aug 2026 | 09:02 am |
+| 103 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 21 Aug 2026 | 10:15 am |
