@@ -1,11 +1,11 @@
 {
-  "totalSolved": 105,
+  "totalSolved": 106,
   "currentStreak": 5,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-21",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 65,
+    "easy": 66,
     "medium": 15,
     "hard": 1,
     "basic": 24
@@ -115,7 +115,8 @@
     "LeetCode_Maximum_Odd_Binary_Number": true,
     "LeetCode_Minimum_Length_of_String_After_Deleting_Similar_Ends": true,
     "LeetCode_Container_With_Most_Water": true,
-    "LeetCode_Max_Consecutive_Ones": true
+    "LeetCode_Max_Consecutive_Ones": true,
+    "LeetCode_Reverse_Vowels_of_a_String": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -136,11 +137,12 @@
     "2026-08-18": 9,
     "2026-08-19": 2,
     "2026-08-20": 1,
-    "2026-08-21": 3
+    "2026-08-21": 4
   },
   "todayProblems": [
     "Minimum Length of String After Deleting Similar Ends",
     "Container With Most Water",
-    "Max Consecutive Ones"
+    "Max Consecutive Ones",
+    "Reverse Vowels of a String"
   ]
 }
