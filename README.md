@@ -100,3 +100,4 @@
 | 98 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 19 Aug 2026 | 09:15 pm |
 | 99 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 19 Aug 2026 | 09:53 pm |
 | 100 | [Maximum Odd Binary Number](./LeetCode/Easy/Maximum%20Odd%20Binary%20Number) | [LeetCode](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | 20 Aug 2026 | 08:34 am |
+| 101 | [Minimum Length of String After Deleting Similar Ends](./LeetCode/Medium/Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends) | [LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | Medium | 21 Aug 2026 | 07:35 am |

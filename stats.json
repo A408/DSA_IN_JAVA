@@ -1,12 +1,12 @@
 {
-  "totalSolved": 102,
-  "currentStreak": 4,
+  "totalSolved": 103,
+  "currentStreak": 5,
   "maxStreak": 9,
-  "lastSyncDate": "2026-08-20",
+  "lastSyncDate": "2026-08-21",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 64,
-    "medium": 13,
+    "medium": 14,
     "hard": 1,
     "basic": 24
   },
@@ -112,7 +112,8 @@
     "LeetCode_Shuffle_String": true,
     "LeetCode_Remove_Outermost_Parentheses": true,
     "LeetCode_Longest_Common_Prefix": true,
-    "LeetCode_Maximum_Odd_Binary_Number": true
+    "LeetCode_Maximum_Odd_Binary_Number": true,
+    "LeetCode_Minimum_Length_of_String_After_Deleting_Similar_Ends": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -132,9 +133,10 @@
     "2026-08-17": 20,
     "2026-08-18": 9,
     "2026-08-19": 2,
-    "2026-08-20": 1
+    "2026-08-20": 1,
+    "2026-08-21": 1
   },
   "todayProblems": [
-    "Maximum Odd Binary Number"
+    "Minimum Length of String After Deleting Similar Ends"
   ]
 }
