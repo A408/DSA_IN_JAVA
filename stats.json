@@ -1,14 +1,14 @@
 {
-  "totalSolved": 107,
+  "totalSolved": 108,
   "currentStreak": 6,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-22",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 66,
     "medium": 15,
     "hard": 1,
-    "basic": 25
+    "basic": 26
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -117,7 +117,8 @@
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_Max_Consecutive_Ones": true,
     "LeetCode_Reverse_Vowels_of_a_String": true,
-    "Codeforces_4A_-_Watermelon": true
+    "Codeforces_4A_-_Watermelon": true,
+    "Codeforces_231A_-_Team": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -139,9 +140,10 @@
     "2026-08-19": 2,
     "2026-08-20": 1,
     "2026-08-21": 4,
-    "2026-08-22": 1
+    "2026-08-22": 2
   },
   "todayProblems": [
-    "4A - Watermelon"
+    "4A - Watermelon",
+    "231A - Team"
   ]
 }

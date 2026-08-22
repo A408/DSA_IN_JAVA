@@ -1,0 +1,19 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+      Scanner sc = new Scanner(System.in);
+      int w = sc.nextInt();
+      int c =0;
+      for(int i=0;i<w;i++){
+        int p1 = sc.nextInt();
+        int p2 = sc.nextInt();
+        int p3 = sc.nextInt();
+
+        if( p1+p2+p3>=2){
+          c++;
+        }
+      }
+      System.out.println(c);
+    }
+}
