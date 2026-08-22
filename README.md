@@ -106,3 +106,4 @@
 | 104 | [Reverse Vowels of a String](./LeetCode/Easy/Reverse%20Vowels%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | 21 Aug 2026 | 09:31 pm |
 | 105 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 22 Aug 2026 | 06:03 pm |
 | 106 | [231A - Team](./Codeforces/basic/231A%20-%20Team) | [Codeforces](https://codeforces.com/problemset/problem/231/A) | basic | 22 Aug 2026 | 06:20 pm |
+| 107 | [282A - Bit](./Codeforces/basic/282A%20-%20Bit) | [Codeforces](https://codeforces.com/problemset/problem/282/A) | basic | 22 Aug 2026 | 06:33 pm |
