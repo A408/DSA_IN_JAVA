@@ -109,3 +109,4 @@
 | 107 | [282A - Bit](./Codeforces/basic/282A%20-%20Bit) | [Codeforces](https://codeforces.com/problemset/problem/282/A) | basic | 22 Aug 2026 | 06:33 pm |
 | 108 | [First and Second Smallests](./GeeksForGeeks/Easy/First%20and%20Second%20Smallests) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1) | Easy | 22 Aug 2026 | 07:28 pm |
 | 109 | [Reverse an Array](./GeeksForGeeks/Easy/Reverse%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 22 Aug 2026 | 07:32 pm |
+| 110 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 22 Aug 2026 | 07:50 pm |

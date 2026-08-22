@@ -1,11 +1,11 @@
 {
-  "totalSolved": 111,
+  "totalSolved": 112,
   "currentStreak": 6,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-22",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 68,
+    "easy": 69,
     "medium": 15,
     "hard": 1,
     "basic": 27
@@ -121,7 +121,8 @@
     "Codeforces_231A_-_Team": true,
     "Codeforces_282A_-_Bit": true,
     "GeeksForGeeks_First_and_Second_Smallests": true,
-    "GeeksForGeeks_Reverse_an_Array": true
+    "GeeksForGeeks_Reverse_an_Array": true,
+    "LeetCode_Is_Subsequence": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -143,13 +144,14 @@
     "2026-08-19": 2,
     "2026-08-20": 1,
     "2026-08-21": 4,
-    "2026-08-22": 5
+    "2026-08-22": 6
   },
   "todayProblems": [
     "4A - Watermelon",
     "231A - Team",
     "282A - Bit",
     "First and Second Smallests",
-    "Reverse an Array"
+    "Reverse an Array",
+    "Is Subsequence"
   ]
 }
