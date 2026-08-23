@@ -1,12 +1,12 @@
 {
-  "totalSolved": 113,
+  "totalSolved": 114,
   "currentStreak": 7,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 69,
-    "medium": 16,
+    "medium": 17,
     "hard": 1,
     "basic": 27
   },
@@ -123,7 +123,8 @@
     "GeeksForGeeks_First_and_Second_Smallests": true,
     "GeeksForGeeks_Reverse_an_Array": true,
     "LeetCode_Is_Subsequence": true,
-    "LeetCode_3Sum": true
+    "LeetCode_3Sum": true,
+    "LeetCode_Boats_to_Save_People": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -146,9 +147,10 @@
     "2026-08-20": 1,
     "2026-08-21": 4,
     "2026-08-22": 6,
-    "2026-08-23": 1
+    "2026-08-23": 2
   },
   "todayProblems": [
-    "3Sum"
+    "3Sum",
+    "Boats to Save People"
   ]
 }
