@@ -1,11 +1,11 @@
 {
-  "totalSolved": 117,
+  "totalSolved": 118,
   "currentStreak": 8,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-24",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 72,
+    "easy": 73,
     "medium": 17,
     "hard": 1,
     "basic": 27
@@ -127,7 +127,8 @@
     "LeetCode_Boats_to_Save_People": true,
     "LeetCode_Binary_Search": true,
     "LeetCode_Palindrome_Number": true,
-    "GeeksForGeeks_Frequency_of_an_Element": true
+    "GeeksForGeeks_Frequency_of_an_Element": true,
+    "GeeksForGeeks_Palindrome_String": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -151,11 +152,12 @@
     "2026-08-21": 4,
     "2026-08-22": 6,
     "2026-08-23": 2,
-    "2026-08-24": 3
+    "2026-08-24": 4
   },
   "todayProblems": [
     "Binary Search",
     "Palindrome Number",
-    "Frequency of an Element"
+    "Frequency of an Element",
+    "Palindrome String"
   ]
 }
