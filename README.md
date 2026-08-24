@@ -116,3 +116,4 @@
 | 114 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 24 Aug 2026 | 07:58 pm |
 | 115 | [Frequency of an Element](./GeeksForGeeks/Easy/Frequency%20of%20an%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-frequency/1) | Easy | 24 Aug 2026 | 08:45 pm |
 | 116 | [Palindrome String](./GeeksForGeeks/Easy/Palindrome%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | Easy | 24 Aug 2026 | 09:20 pm |
+| 117 | [Sort Characters By Frequency](./LeetCode/Medium/Sort%20Characters%20By%20Frequency) | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | 24 Aug 2026 | 09:38 pm |
