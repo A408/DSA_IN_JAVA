@@ -114,3 +114,4 @@
 | 112 | [Boats to Save People](./LeetCode/Medium/Boats%20to%20Save%20People) | [LeetCode](https://leetcode.com/problems/boats-to-save-people/) | Medium | 23 Aug 2026 | 09:16 pm |
 | 113 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 24 Aug 2026 | 09:44 am |
 | 114 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 24 Aug 2026 | 07:58 pm |
+| 115 | [Frequency of an Element](./GeeksForGeeks/Easy/Frequency%20of%20an%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-frequency/1) | Easy | 24 Aug 2026 | 08:45 pm |
