@@ -117,3 +117,4 @@
 | 115 | [Frequency of an Element](./GeeksForGeeks/Easy/Frequency%20of%20an%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-frequency/1) | Easy | 24 Aug 2026 | 08:45 pm |
 | 116 | [Palindrome String](./GeeksForGeeks/Easy/Palindrome%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | Easy | 24 Aug 2026 | 09:20 pm |
 | 117 | [Sort Characters By Frequency](./LeetCode/Medium/Sort%20Characters%20By%20Frequency) | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | 24 Aug 2026 | 09:38 pm |
+| 118 | [Implement Upper Bound](./GeeksForGeeks/Easy/Implement%20Upper%20Bound) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-upper-bound/1) | Easy | 26 Aug 2026 | 08:06 am |
