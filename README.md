@@ -121,3 +121,4 @@
 | 119 | [Implement Lower Bound](./GeeksForGeeks/Easy/Implement%20Lower%20Bound) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-lower-bound/1) | Easy | 26 Aug 2026 | 08:11 am |
 | 120 | [Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 26 Aug 2026 | 10:22 am |
 | 121 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 26 Aug 2026 | 10:44 am |
+| 122 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 26 Aug 2026 | 09:32 pm |
