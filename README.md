@@ -119,3 +119,4 @@
 | 117 | [Sort Characters By Frequency](./LeetCode/Medium/Sort%20Characters%20By%20Frequency) | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | 24 Aug 2026 | 09:38 pm |
 | 118 | [Implement Upper Bound](./GeeksForGeeks/Easy/Implement%20Upper%20Bound) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-upper-bound/1) | Easy | 26 Aug 2026 | 08:06 am |
 | 119 | [Implement Lower Bound](./GeeksForGeeks/Easy/Implement%20Lower%20Bound) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-lower-bound/1) | Easy | 26 Aug 2026 | 08:11 am |
+| 120 | [Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 26 Aug 2026 | 10:22 am |
