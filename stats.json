@@ -1,12 +1,12 @@
 {
-  "totalSolved": 126,
+  "totalSolved": 127,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-28",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 78,
-    "medium": 20,
+    "medium": 21,
     "hard": 1,
     "basic": 27
   },
@@ -136,7 +136,8 @@
     "LeetCode_Sqrt(x)": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
     "GeeksForGeeks_Palindrome_Sentence": true,
-    "LeetCode_Happy_Number": true
+    "LeetCode_Happy_Number": true,
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -162,10 +163,11 @@
     "2026-08-23": 2,
     "2026-08-24": 5,
     "2026-08-26": 5,
-    "2026-08-28": 2
+    "2026-08-28": 3
   },
   "todayProblems": [
     "Palindrome Sentence",
-    "Happy Number"
+    "Happy Number",
+    "Find Minimum in Rotated Sorted Array"
   ]
 }

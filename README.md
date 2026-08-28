@@ -124,3 +124,4 @@
 | 122 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 26 Aug 2026 | 09:32 pm |
 | 123 | [Palindrome Sentence](./GeeksForGeeks/Easy/Palindrome%20Sentence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1) | Easy | 28 Aug 2026 | 09:45 am |
 | 124 | [Happy Number](./LeetCode/Easy/Happy%20Number) | [LeetCode](https://leetcode.com/problems/happy-number/) | Easy | 28 Aug 2026 | 09:55 am |
+| 125 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 28 Aug 2026 | 08:29 pm |
