@@ -1,11 +1,11 @@
 {
-  "totalSolved": 128,
-  "currentStreak": 1,
+  "totalSolved": 129,
+  "currentStreak": 2,
   "maxStreak": 9,
-  "lastSyncDate": "2026-08-28",
-  "todayCount": 4,
+  "lastSyncDate": "2026-08-29",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 78,
+    "easy": 79,
     "medium": 22,
     "hard": 1,
     "basic": 27
@@ -138,7 +138,8 @@
     "GeeksForGeeks_Palindrome_Sentence": true,
     "LeetCode_Happy_Number": true,
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
-    "LeetCode_Koko_Eating_Bananas": true
+    "LeetCode_Koko_Eating_Bananas": true,
+    "LeetCode_First_Bad_Version": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -164,12 +165,10 @@
     "2026-08-23": 2,
     "2026-08-24": 5,
     "2026-08-26": 5,
-    "2026-08-28": 4
+    "2026-08-28": 4,
+    "2026-08-29": 1
   },
   "todayProblems": [
-    "Palindrome Sentence",
-    "Happy Number",
-    "Find Minimum in Rotated Sorted Array",
-    "Koko Eating Bananas"
+    "First Bad Version"
   ]
 }
