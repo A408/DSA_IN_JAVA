@@ -128,3 +128,4 @@
 | 126 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 28 Aug 2026 | 09:19 pm |
 | 127 | [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) | [LeetCode](https://leetcode.com/problems/first-bad-version/) | Easy | 29 Aug 2026 | 08:24 pm |
 | 128 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 29 Aug 2026 | 08:48 pm |
+| 129 | [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 29 Aug 2026 | 09:49 pm |

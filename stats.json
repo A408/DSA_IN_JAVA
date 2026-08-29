@@ -1,12 +1,12 @@
 {
-  "totalSolved": 130,
+  "totalSolved": 131,
   "currentStreak": 2,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-29",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 79,
-    "medium": 23,
+    "medium": 24,
     "hard": 1,
     "basic": 27
   },
@@ -140,7 +140,8 @@
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
     "LeetCode_Koko_Eating_Bananas": true,
     "LeetCode_First_Bad_Version": true,
-    "LeetCode_Search_a_2D_Matrix": true
+    "LeetCode_Search_a_2D_Matrix": true,
+    "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -167,10 +168,11 @@
     "2026-08-24": 5,
     "2026-08-26": 5,
     "2026-08-28": 4,
-    "2026-08-29": 2
+    "2026-08-29": 3
   },
   "todayProblems": [
     "First Bad Version",
-    "Search a 2D Matrix"
+    "Search a 2D Matrix",
+    "Capacity To Ship Packages Within D Days"
   ]
 }
