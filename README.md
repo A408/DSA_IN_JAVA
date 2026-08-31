@@ -130,3 +130,4 @@
 | 128 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 29 Aug 2026 | 08:48 pm |
 | 129 | [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 29 Aug 2026 | 09:49 pm |
 | 130 | [Kth Missing Positive Number](./LeetCode/Easy/Kth%20Missing%20Positive%20Number) | [LeetCode](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | 30 Aug 2026 | 09:36 pm |
+| 131 | [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | 31 Aug 2026 | 09:57 am |
