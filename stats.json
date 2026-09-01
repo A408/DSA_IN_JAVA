@@ -1,12 +1,12 @@
 {
-  "totalSolved": 134,
-  "currentStreak": 4,
+  "totalSolved": 135,
+  "currentStreak": 5,
   "maxStreak": 9,
-  "lastSyncDate": "2026-08-31",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-01",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 80,
-    "medium": 26,
+    "medium": 27,
     "hard": 1,
     "basic": 27
   },
@@ -144,7 +144,8 @@
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
     "LeetCode_Kth_Missing_Positive_Number": true,
     "LeetCode_Peak_Index_in_a_Mountain_Array": true,
-    "LeetCode_Minimum_Number_of_Days_to_Make_m_Bouquets": true
+    "LeetCode_Minimum_Number_of_Days_to_Make_m_Bouquets": true,
+    "LeetCode_4Sum": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -173,10 +174,10 @@
     "2026-08-28": 4,
     "2026-08-29": 3,
     "2026-08-30": 1,
-    "2026-08-31": 2
+    "2026-08-31": 2,
+    "2026-09-01": 1
   },
   "todayProblems": [
-    "Peak Index in a Mountain Array",
-    "Minimum Number of Days to Make m Bouquets"
+    "4Sum"
   ]
 }
