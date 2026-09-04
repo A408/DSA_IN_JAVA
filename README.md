@@ -135,3 +135,4 @@
 | 133 | [4Sum](./LeetCode/Medium/4Sum) | [LeetCode](https://leetcode.com/problems/4sum/) | Medium | 01 Sept 2026 | 08:27 pm |
 | 134 | [Minimum Time to Complete Trips](./LeetCode/Medium/Minimum%20Time%20to%20Complete%20Trips) | [LeetCode](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium | 02 Sept 2026 | 10:01 am |
 | 135 | [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | 04 Sept 2026 | 10:29 am |
+| 136 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 04 Sept 2026 | 09:27 pm |
