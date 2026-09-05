@@ -1,12 +1,12 @@
 {
-  "totalSolved": 138,
-  "currentStreak": 1,
+  "totalSolved": 139,
+  "currentStreak": 2,
   "maxStreak": 9,
-  "lastSyncDate": "2026-09-04",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-05",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 82,
-    "medium": 28,
+    "medium": 29,
     "hard": 1,
     "basic": 27
   },
@@ -148,7 +148,8 @@
     "LeetCode_4Sum": true,
     "LeetCode_Minimum_Time_to_Complete_Trips": true,
     "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true,
-    "LeetCode_Smallest_Stable_Index_I": true
+    "LeetCode_Smallest_Stable_Index_I": true,
+    "LeetCode_Smallest_Stable_Index_II": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -180,10 +181,10 @@
     "2026-08-31": 2,
     "2026-09-01": 1,
     "2026-09-02": 1,
-    "2026-09-04": 2
+    "2026-09-04": 2,
+    "2026-09-05": 1
   },
   "todayProblems": [
-    "Find Smallest Letter Greater Than Target",
-    "Smallest Stable Index I"
+    "Smallest Stable Index II"
   ]
 }
