@@ -1,14 +1,14 @@
 {
-  "totalSolved": 143,
+  "totalSolved": 144,
   "currentStreak": 1,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-12",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 83,
     "medium": 29,
     "hard": 1,
-    "basic": 30
+    "basic": 31
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -153,7 +153,8 @@
     "LeetCode_Plus_One": true,
     "GeeksForGeeks_1_to_n_Without_Loop": true,
     "GeeksForGeeks_Print_n_to_1_Without_Loop": true,
-    "GeeksForGeeks_Arithmetic_Operators": true
+    "GeeksForGeeks_Arithmetic_Operators": true,
+    "GeeksForGeeks_Factorial": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -188,11 +189,12 @@
     "2026-09-04": 2,
     "2026-09-05": 1,
     "2026-09-13": 1,
-    "2026-10-12": 3
+    "2026-10-12": 4
   },
   "todayProblems": [
     "1 to n Without Loop",
     "Print n to 1 Without Loop",
-    "Arithmetic Operators"
+    "Arithmetic Operators",
+    "Factorial"
   ]
 }
