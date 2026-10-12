@@ -138,3 +138,4 @@
 | 136 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 04 Sept 2026 | 09:27 pm |
 | 137 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 09:14 am |
 | 138 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 13 Sept 2026 | 09:41 pm |
+| 139 | [1 to n Without Loop](./GeeksForGeeks/Basic/1%20to%20n%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | Basic | 12 Oct 2026 | 10:23 am |
