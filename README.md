@@ -142,3 +142,4 @@
 | 140 | [Print n to 1 Without Loop](./GeeksForGeeks/Basic/Print%20n%20to%201%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | Basic | 12 Oct 2026 | 10:24 am |
 | 141 | [Arithmetic Operators](./GeeksForGeeks/Basic/Arithmetic%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arithmetic-operators/1) | Basic | 12 Oct 2026 | 08:10 pm |
 | 142 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Basic | 12 Oct 2026 | 08:18 pm |
+| 143 | [GCD of Two](./GeeksForGeeks/Basic/GCD%20of%20Two) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Basic | 12 Oct 2026 | 08:32 pm |
