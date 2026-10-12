@@ -140,3 +140,4 @@
 | 138 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 13 Sept 2026 | 09:41 pm |
 | 139 | [1 to n Without Loop](./GeeksForGeeks/Basic/1%20to%20n%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | Basic | 12 Oct 2026 | 10:23 am |
 | 140 | [Print n to 1 Without Loop](./GeeksForGeeks/Basic/Print%20n%20to%201%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | Basic | 12 Oct 2026 | 10:24 am |
+| 141 | [Arithmetic Operators](./GeeksForGeeks/Basic/Arithmetic%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arithmetic-operators/1) | Basic | 12 Oct 2026 | 08:10 pm |
