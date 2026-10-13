@@ -1,11 +1,11 @@
 {
-  "totalSolved": 146,
+  "totalSolved": 147,
   "currentStreak": 2,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 84,
+    "easy": 85,
     "medium": 29,
     "hard": 1,
     "basic": 32
@@ -156,7 +156,8 @@
     "GeeksForGeeks_Arithmetic_Operators": true,
     "GeeksForGeeks_Factorial": true,
     "GeeksForGeeks_GCD_of_Two": true,
-    "GeeksForGeeks_Prime_Number": true
+    "GeeksForGeeks_Prime_Number": true,
+    "GeeksForGeeks_Count_Digits_in_Number": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -192,9 +193,10 @@
     "2026-09-05": 1,
     "2026-09-13": 1,
     "2026-10-12": 5,
-    "2026-10-13": 1
+    "2026-10-13": 2
   },
   "todayProblems": [
-    "Prime Number"
+    "Prime Number",
+    "Count Digits in Number"
   ]
 }
