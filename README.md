@@ -143,3 +143,4 @@
 | 141 | [Arithmetic Operators](./GeeksForGeeks/Basic/Arithmetic%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arithmetic-operators/1) | Basic | 12 Oct 2026 | 08:10 pm |
 | 142 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Basic | 12 Oct 2026 | 08:18 pm |
 | 143 | [GCD of Two](./GeeksForGeeks/Basic/GCD%20of%20Two) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Basic | 12 Oct 2026 | 08:32 pm |
+| 144 | [Prime Number](./GeeksForGeeks/Easy/Prime%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Easy | 13 Oct 2026 | 09:54 am |
